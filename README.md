@@ -8,7 +8,6 @@ Customer churn is a critical problem in banking and telecom sectors — identify
 
 This project builds an **Artificial Neural Network** to predict churn from customer data, demonstrating a complete **machine learning workflow** from preprocessing to model deployment.
 
----
 
 ## 🧩 Tech Stack
 
@@ -17,7 +16,6 @@ This project builds an **Artificial Neural Network** to predict churn from custo
 - **Tools:** TensorBoard, pickle, Jupyter Notebook  
 - **Model Type:** Binary Classification (Churn / No Churn)
 
----
 
 ## 📊 Dataset
 
@@ -28,7 +26,6 @@ This project builds an **Artificial Neural Network** to predict churn from custo
   - Categorical: Geography, Gender  
   - Target: `Exited` (1 = Churn, 0 = Retained)
 
----
 
 ## ⚙️ Workflow
 
@@ -57,8 +54,4 @@ This project builds an **Artificial Neural Network** to predict churn from custo
 5. **Model Saving**
    - Trained model exported as `model.h5`
    - Ready for inference or deployment
-
----
-
-## 📁 Project Structure
 
